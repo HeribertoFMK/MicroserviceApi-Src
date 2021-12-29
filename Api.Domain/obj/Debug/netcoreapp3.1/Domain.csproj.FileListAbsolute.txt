@@ -1,0 +1,9 @@
+/Users/heribertomac2021/api/Src/Api.Domain/bin/Debug/netcoreapp3.1/Domain.deps.json
+/Users/heribertomac2021/api/Src/Api.Domain/bin/Debug/netcoreapp3.1/Domain.dll
+/Users/heribertomac2021/api/Src/Api.Domain/bin/Debug/netcoreapp3.1/Domain.pdb
+/Users/heribertomac2021/api/Src/Api.Domain/obj/Debug/netcoreapp3.1/Domain.csprojAssemblyReference.cache
+/Users/heribertomac2021/api/Src/Api.Domain/obj/Debug/netcoreapp3.1/Domain.AssemblyInfoInputs.cache
+/Users/heribertomac2021/api/Src/Api.Domain/obj/Debug/netcoreapp3.1/Domain.AssemblyInfo.cs
+/Users/heribertomac2021/api/Src/Api.Domain/obj/Debug/netcoreapp3.1/Domain.csproj.CoreCompileInputs.cache
+/Users/heribertomac2021/api/Src/Api.Domain/obj/Debug/netcoreapp3.1/Domain.dll
+/Users/heribertomac2021/api/Src/Api.Domain/obj/Debug/netcoreapp3.1/Domain.pdb

@@ -1,0 +1,9 @@
+/Users/heribertomac2021/api/Src/Api.CrossCutting/bin/Debug/netcoreapp3.1/CrossCutting.deps.json
+/Users/heribertomac2021/api/Src/Api.CrossCutting/bin/Debug/netcoreapp3.1/CrossCutting.dll
+/Users/heribertomac2021/api/Src/Api.CrossCutting/bin/Debug/netcoreapp3.1/CrossCutting.pdb
+/Users/heribertomac2021/api/Src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.csprojAssemblyReference.cache
+/Users/heribertomac2021/api/Src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.AssemblyInfoInputs.cache
+/Users/heribertomac2021/api/Src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.AssemblyInfo.cs
+/Users/heribertomac2021/api/Src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.csproj.CoreCompileInputs.cache
+/Users/heribertomac2021/api/Src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.dll
+/Users/heribertomac2021/api/Src/Api.CrossCutting/obj/Debug/netcoreapp3.1/CrossCutting.pdb

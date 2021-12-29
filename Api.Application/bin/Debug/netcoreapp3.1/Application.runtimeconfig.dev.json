@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/heribertomac2021/.dotnet/store/|arch|/|tfm|",
+      "/Users/heribertomac2021/.nuget/packages"
+    ]
+  }
+}

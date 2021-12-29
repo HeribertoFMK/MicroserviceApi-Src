@@ -1,0 +1,15 @@
+/Users/heribertomac2021/api/Src/Api.Data/bin/Debug/netcoreapp3.1/Data.deps.json
+/Users/heribertomac2021/api/Src/Api.Data/bin/Debug/netcoreapp3.1/Data.dll
+/Users/heribertomac2021/api/Src/Api.Data/bin/Debug/netcoreapp3.1/Data.pdb
+/Users/heribertomac2021/api/Src/Api.Data/obj/Debug/netcoreapp3.1/Data.csprojAssemblyReference.cache
+/Users/heribertomac2021/api/Src/Api.Data/obj/Debug/netcoreapp3.1/Data.AssemblyInfoInputs.cache
+/Users/heribertomac2021/api/Src/Api.Data/obj/Debug/netcoreapp3.1/Data.AssemblyInfo.cs
+/Users/heribertomac2021/api/Src/Api.Data/obj/Debug/netcoreapp3.1/Data.csproj.CoreCompileInputs.cache
+/Users/heribertomac2021/api/Src/Api.Data/obj/Debug/netcoreapp3.1/Data.dll
+/Users/heribertomac2021/api/Src/Api.Data/obj/Debug/netcoreapp3.1/Data.pdb
+/Users/heribertomac2021/api/Src/Api.Data/bin/Debug/netcoreapp3.1/Data.runtimeconfig.json
+/Users/heribertomac2021/api/Src/Api.Data/bin/Debug/netcoreapp3.1/Data.runtimeconfig.dev.json
+/Users/heribertomac2021/api/Src/Api.Data/obj/Debug/netcoreapp3.1/Data.genruntimeconfig.cache
+/Users/heribertomac2021/api/Src/Api.Data/bin/Debug/netcoreapp3.1/Domain.dll
+/Users/heribertomac2021/api/Src/Api.Data/bin/Debug/netcoreapp3.1/Domain.pdb
+/Users/heribertomac2021/api/Src/Api.Data/obj/Debug/netcoreapp3.1/Data.csproj.CopyComplete
