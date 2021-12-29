@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "5FspFMZrbEIoX3zEmWL/d3hvH+9fnLCVKZ789EM1D9Ad09DGAQggBmmbVB7uCfvKWau6kOGqycYZ7GE5pYY7gA==",
+  "dgSpecHash": "Da05opGRV/rhuyOhHKTG6iWpfZiiaDCPmKTEnoy3/76R+00/USi744r9XFrC54irX0Ivx8fxhCQDVDaSeQ44eA==",
   "success": true,
   "projectFilePath": "/Users/heribertomac2021/api/Src/Api.Data/Data.csproj",
   "expectedPackageFiles": [
@@ -26,7 +26,7 @@
     "/Users/heribertomac2021/.nuget/packages/microsoft.extensions.primitives/3.1.22/microsoft.extensions.primitives.3.1.22.nupkg.sha512",
     "/Users/heribertomac2021/.nuget/packages/mysqlconnector/0.69.9/mysqlconnector.0.69.9.nupkg.sha512",
     "/Users/heribertomac2021/.nuget/packages/newtonsoft.json/11.0.2/newtonsoft.json.11.0.2.nupkg.sha512",
-    "/Users/heribertomac2021/.nuget/packages/pomelo.entityframeworkcore.mysql/3.2.1/pomelo.entityframeworkcore.mysql.3.2.1.nupkg.sha512",
+    "/Users/heribertomac2021/.nuget/packages/pomelo.entityframeworkcore.mysql/3.2.2/pomelo.entityframeworkcore.mysql.3.2.2.nupkg.sha512",
     "/Users/heribertomac2021/.nuget/packages/pomelo.jsonobject/2.2.1/pomelo.jsonobject.2.2.1.nupkg.sha512",
     "/Users/heribertomac2021/.nuget/packages/system.collections.immutable/1.7.1/system.collections.immutable.1.7.1.nupkg.sha512",
     "/Users/heribertomac2021/.nuget/packages/system.componentmodel.annotations/4.7.0/system.componentmodel.annotations.4.7.0.nupkg.sha512",

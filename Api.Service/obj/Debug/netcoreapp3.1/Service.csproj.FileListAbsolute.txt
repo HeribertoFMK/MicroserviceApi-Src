@@ -6,3 +6,9 @@
 /Users/heribertomac2021/api/Src/Api.Service/obj/Debug/netcoreapp3.1/Service.csproj.CoreCompileInputs.cache
 /Users/heribertomac2021/api/Src/Api.Service/obj/Debug/netcoreapp3.1/Service.dll
 /Users/heribertomac2021/api/Src/Api.Service/obj/Debug/netcoreapp3.1/Service.pdb
+/Users/heribertomac2021/api/Src/Api.Service/obj/Debug/netcoreapp3.1/Service.csprojAssemblyReference.cache
+/Users/heribertomac2021/api/Src/Api.Service/bin/Debug/netcoreapp3.1/Data.dll
+/Users/heribertomac2021/api/Src/Api.Service/bin/Debug/netcoreapp3.1/Domain.dll
+/Users/heribertomac2021/api/Src/Api.Service/bin/Debug/netcoreapp3.1/Domain.pdb
+/Users/heribertomac2021/api/Src/Api.Service/bin/Debug/netcoreapp3.1/Data.pdb
+/Users/heribertomac2021/api/Src/Api.Service/obj/Debug/netcoreapp3.1/Service.csproj.CopyComplete
