@@ -48,3 +48,10 @@
 /Users/heribertomac2021/api/Src/Api.Application/bin/Debug/netcoreapp3.1/CrossCutting.pdb
 /Users/heribertomac2021/api/Src/Api.Application/bin/Debug/netcoreapp3.1/Data.pdb
 /Users/heribertomac2021/api/Src/Api.Application/obj/Debug/netcoreapp3.1/Application.csproj.CopyComplete
+/Users/heribertomac2021/api/Src/Api.Application/bin/Debug/netcoreapp3.1/AutoMapper.dll
+/Users/heribertomac2021/api/Src/Api.Application/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/heribertomac2021/api/Src/Api.Application/bin/Debug/netcoreapp3.1/Microsoft.OpenApi.dll
+/Users/heribertomac2021/api/Src/Api.Application/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.Swagger.dll
+/Users/heribertomac2021/api/Src/Api.Application/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/heribertomac2021/api/Src/Api.Application/bin/Debug/netcoreapp3.1/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/heribertomac2021/api/Src/Api.Application/obj/Debug/netcoreapp3.1/Application.MvcApplicationPartsAssemblyInfo.cs

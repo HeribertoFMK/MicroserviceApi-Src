@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "h8kZkcdJEofjucx+13l12kxmnxv5yHOE9QmkxIhf5IEMAtNrkMhIoT9XTgs1VRXtWNXjDllze+eLdE6PAlEBiw==",
+  "dgSpecHash": "+zv5kr5KIx7OkwNqb1GE9I7PMI9aUYMyTqKdGsMquZw9uUHXqaCSdOiuH1btlMN8zQXiEJZ4BCz4fvaVcIwA/Q==",
   "success": true,
   "projectFilePath": "/Users/heribertomac2021/api/Src/Api.CrossCutting/CrossCutting.csproj",
   "expectedPackageFiles": [
+    "/Users/heribertomac2021/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
+    "/Users/heribertomac2021/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.1/automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "/Users/heribertomac2021/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/Users/heribertomac2021/.nuget/packages/microsoft.bcl.hashcode/1.1.1/microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
-    "/Users/heribertomac2021/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/Users/heribertomac2021/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/heribertomac2021/.nuget/packages/microsoft.entityframeworkcore/3.1.22/microsoft.entityframeworkcore.3.1.22.nupkg.sha512",
     "/Users/heribertomac2021/.nuget/packages/microsoft.entityframeworkcore.abstractions/3.1.22/microsoft.entityframeworkcore.abstractions.3.1.22.nupkg.sha512",
     "/Users/heribertomac2021/.nuget/packages/microsoft.entityframeworkcore.analyzers/3.1.22/microsoft.entityframeworkcore.analyzers.3.1.22.nupkg.sha512",
@@ -28,7 +30,8 @@
     "/Users/heribertomac2021/.nuget/packages/pomelo.jsonobject/2.2.1/pomelo.jsonobject.2.2.1.nupkg.sha512",
     "/Users/heribertomac2021/.nuget/packages/system.collections.immutable/1.7.1/system.collections.immutable.1.7.1.nupkg.sha512",
     "/Users/heribertomac2021/.nuget/packages/system.componentmodel.annotations/4.7.0/system.componentmodel.annotations.4.7.0.nupkg.sha512",
-    "/Users/heribertomac2021/.nuget/packages/system.diagnostics.diagnosticsource/4.7.1/system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+    "/Users/heribertomac2021/.nuget/packages/system.diagnostics.diagnosticsource/4.7.1/system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "/Users/heribertomac2021/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,16 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "6LT+372pNUpLfvmoDr92Q0W3YUr+oJp/W31jIFju58hawGIflVJwxUWnYcjQnqu9UWtD+skKkbOPDLsuP+n1yg==",
+  "dgSpecHash": "HoT1+/Eun1Meu2wdGB7/j2RAJjIyW4SrbAPYZgEjk/2S7bhT2sLMZJEak3iztOZ8DN0jAduuXFWxuZyStLmCHw==",
   "success": true,
   "projectFilePath": "/Users/heribertomac2021/api/Src/Api.Application/Application.csproj",
   "expectedPackageFiles": [
+    "/Users/heribertomac2021/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
+    "/Users/heribertomac2021/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.1/automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "/Users/heribertomac2021/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/Users/heribertomac2021/.nuget/packages/microsoft.bcl.hashcode/1.1.1/microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
-    "/Users/heribertomac2021/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/Users/heribertomac2021/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/heribertomac2021/.nuget/packages/microsoft.entityframeworkcore/3.1.22/microsoft.entityframeworkcore.3.1.22.nupkg.sha512",
     "/Users/heribertomac2021/.nuget/packages/microsoft.entityframeworkcore.abstractions/3.1.22/microsoft.entityframeworkcore.abstractions.3.1.22.nupkg.sha512",
     "/Users/heribertomac2021/.nuget/packages/microsoft.entityframeworkcore.analyzers/3.1.22/microsoft.entityframeworkcore.analyzers.3.1.22.nupkg.sha512",
     "/Users/heribertomac2021/.nuget/packages/microsoft.entityframeworkcore.relational/3.1.22/microsoft.entityframeworkcore.relational.3.1.22.nupkg.sha512",
+    "/Users/heribertomac2021/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/Users/heribertomac2021/.nuget/packages/microsoft.extensions.caching.abstractions/3.1.22/microsoft.extensions.caching.abstractions.3.1.22.nupkg.sha512",
     "/Users/heribertomac2021/.nuget/packages/microsoft.extensions.caching.memory/3.1.22/microsoft.extensions.caching.memory.3.1.22.nupkg.sha512",
     "/Users/heribertomac2021/.nuget/packages/microsoft.extensions.configuration/3.1.22/microsoft.extensions.configuration.3.1.22.nupkg.sha512",
@@ -22,13 +25,19 @@
     "/Users/heribertomac2021/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.22/microsoft.extensions.logging.abstractions.3.1.22.nupkg.sha512",
     "/Users/heribertomac2021/.nuget/packages/microsoft.extensions.options/3.1.22/microsoft.extensions.options.3.1.22.nupkg.sha512",
     "/Users/heribertomac2021/.nuget/packages/microsoft.extensions.primitives/3.1.22/microsoft.extensions.primitives.3.1.22.nupkg.sha512",
+    "/Users/heribertomac2021/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
     "/Users/heribertomac2021/.nuget/packages/mysqlconnector/0.69.9/mysqlconnector.0.69.9.nupkg.sha512",
     "/Users/heribertomac2021/.nuget/packages/newtonsoft.json/11.0.2/newtonsoft.json.11.0.2.nupkg.sha512",
     "/Users/heribertomac2021/.nuget/packages/pomelo.entityframeworkcore.mysql/3.2.2/pomelo.entityframeworkcore.mysql.3.2.2.nupkg.sha512",
     "/Users/heribertomac2021/.nuget/packages/pomelo.jsonobject/2.2.1/pomelo.jsonobject.2.2.1.nupkg.sha512",
+    "/Users/heribertomac2021/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/heribertomac2021/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/heribertomac2021/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/heribertomac2021/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
     "/Users/heribertomac2021/.nuget/packages/system.collections.immutable/1.7.1/system.collections.immutable.1.7.1.nupkg.sha512",
     "/Users/heribertomac2021/.nuget/packages/system.componentmodel.annotations/4.7.0/system.componentmodel.annotations.4.7.0.nupkg.sha512",
-    "/Users/heribertomac2021/.nuget/packages/system.diagnostics.diagnosticsource/4.7.1/system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+    "/Users/heribertomac2021/.nuget/packages/system.diagnostics.diagnosticsource/4.7.1/system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "/Users/heribertomac2021/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }
